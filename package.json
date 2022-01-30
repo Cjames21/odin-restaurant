@@ -1,0 +1,23 @@
+{
+  "name": "odin-restaurant",
+  "version": "0.0.1",
+  "description": "Simple restaurant page with specifications being given by The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cjames21/odin-restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cjames21/odin-restaurant/issues"
+  },
+  "homepage": "https://github.com/Cjames21/odin-restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
